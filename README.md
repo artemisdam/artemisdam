@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @artemisdam
-- 👸 My name is Damla
-- 👀 I graduated from Özyeğin University departmant of Electrical and Electronics Engineering.
-- 💼👩‍💻Work Experiences 
+👋 Hi, I’m @artemisdam
+👸 My name is Damla
+👀 I graduated from Özyeğin University departmant of Electrical and Electronics Engineering.
+💼👩‍💻Work Experiences 
 -->WATSONS-CRM Analytics Specialist
 -->EVAM-Software Consultant
 -->GRATIS-ECOMMERCE & CRM Specialist
-- 📫 How to reach me --> e-mail: damlapatar@gmail.com
+📫 How to reach me --> e-mail: damlapatar@gmail.com
 
 <!---
 artemisdam/artemisdam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
