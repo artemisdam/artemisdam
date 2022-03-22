@@ -4,7 +4,7 @@
 -💼👩‍💻Work Experiences 
 -->WATSONS-CRM Analytics Specialist
 -->EVAM-Software Consultant
--->GRATIS-ECOMMERCE & CRM Specialist
+-->GRATIS- IT ECOMMERCE & CRM Specialist
 -📫 How to reach me --> e-mail: damlapatar@gmail.com
 
 <!---
