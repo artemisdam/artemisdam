@@ -2,9 +2,6 @@
 -👸 My name is Damla
 -👀 I graduated from Özyeğin University departmant of Electrical and Electronics Engineering.
 -💼👩‍💻Work Experiences 
--->WATSONS-CRM Analytics Specialist
--->EVAM-Software Consultant
--->GRATIS- IT ECOMMERCE & CRM Specialist
 -📫 How to reach me --> e-mail: damlapatar@gmail.com
 
 <!---
